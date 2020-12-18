@@ -1,0 +1,51 @@
+header {
+    width: 100vw;
+    height: 100vh;
+    font-size: 1em;
+    background: url(Images/download.jpg); /*center center/cover no-repeat; */
+    padding-top: 2rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: url(Images/mountain-dome-background.jpg);
+}
+
+.intro {
+    width: 30vw;
+    padding: 4rem;
+    background-color:rgba(88, 85, 85, 0.801)
+    
+}
+
+.head {
+    text-align: center;
+    font-family: 'Langar', cursive;
+}
+
+html {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #494949;
+    color: #f4c20c;
+}
+
+aside {
+    width: 35vw;
+    padding: 1rem
+}
+
+.bio-container {
+    display:flex;
+}
+
+.tech {
+    padding: 1rem
+}
+
+article {
+    margin-top: 2em;
+}
+
+footer {
+    padding-top: 15vh;
+    height: 20vh;
+}
